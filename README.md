@@ -1,6 +1,8 @@
 # GTA Vice City Teleport Tool  
 A small collection of CLEO Scripts that act as a multi point Teleport Tool  
 
+Features: 10 Location Teleport Keys and Postion saving Keys that leaves a Pink Blip on the map where you marked.
+
 To use it:  
 1- Install GTA Vice City  
 2- Install an ASI Loader, Download it from here: https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/  
